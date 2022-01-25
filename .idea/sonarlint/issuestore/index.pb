@@ -41,8 +41,6 @@ d
 4app/src/main/java/com/example/peliculas/app/MyApp.kt,b/e/be47895c830a2a5d7ffe393000c06689764fa8ec
 y
 Ipeliculasres/src/main/java/com/example/peliculasres/RequestInterceptor.kt,c/6/c67684c773ffe2900ac6cbb10bf210098c4da17b
-c
-3app/src/main/java/com/example/peliculas/Constant.kt,5/f/5faa1d7b780e1e07572ab7550056ac44d551ed5c
 @
 app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
 u
